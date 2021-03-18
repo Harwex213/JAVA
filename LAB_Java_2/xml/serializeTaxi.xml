@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:fleet xmlns:ns2="com.src.TaxiFleet.Fleet">
+    <taxi>
+        <actuallyFuelLevel>18</actuallyFuelLevel>
+        <fuelConsumption>6.3</fuelConsumption>
+        <maxSpeed>150</maxSpeed>
+        <priceTaxi>10000</priceTaxi>
+        <valueTank>50</valueTank>
+        <typeTaxi>Sedan</typeTaxi>
+    </taxi>
+    <taxi>
+        <actuallyFuelLevel>40</actuallyFuelLevel>
+        <fuelConsumption>6.5</fuelConsumption>
+        <maxSpeed>180</maxSpeed>
+        <priceTaxi>9700</priceTaxi>
+        <valueTank>60</valueTank>
+        <typeTaxi>Universal</typeTaxi>
+    </taxi>
+    <taxi>
+        <actuallyFuelLevel>30</actuallyFuelLevel>
+        <fuelConsumption>8.0</fuelConsumption>
+        <maxSpeed>80</maxSpeed>
+        <priceTaxi>7090</priceTaxi>
+        <valueTank>80</valueTank>
+        <typeTaxi>Bus</typeTaxi>
+    </taxi>
+    <taxi>
+        <actuallyFuelLevel>43</actuallyFuelLevel>
+        <fuelConsumption>9.0</fuelConsumption>
+        <maxSpeed>100</maxSpeed>
+        <priceTaxi>10200</priceTaxi>
+        <valueTank>75</valueTank>
+        <typeTaxi>Bus</typeTaxi>
+    </taxi>
+</ns2:fleet>
