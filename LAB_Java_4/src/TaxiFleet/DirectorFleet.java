@@ -130,6 +130,7 @@ public class DirectorFleet implements Comparator<Automobile> {
 
             validator.validate(source);
             WriteInfoLOGGER("XML File is valid");
+
         } catch (Exception e) {
             WriteInfoLOGGER(e.getMessage());
         }
